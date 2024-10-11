@@ -175,6 +175,10 @@ body {
   justify-content: space-between;
   z-index: 1;
 }
+.price_range_style {
+  font-size: 1.5rem;
+}
+
 #contact {
   margin: auto;
   background-color: #d8d3a8;
